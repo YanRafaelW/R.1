@@ -55,7 +55,7 @@ main {
     width: 80%;
     min-width: 280px;
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
-    transition: transform 10s ease, box-shadow 10s ease;
+    transition: transform 0.3s ease, box-shadow 10s ease;
 }
 
 .disciplina:hover {
